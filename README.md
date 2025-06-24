@@ -22,6 +22,8 @@ Este proyecto permite predecir la probabilidad de fuga de clientes (churn) a par
 
 ├── README.md # Documentación del proyecto
 
+├── data/churn.xlsx # data utilizada para entrenamiento y testeo
+
 📄 Formato esperado del archivo Excel
 
 El archivo debe tener las siguientes columnas clave:
